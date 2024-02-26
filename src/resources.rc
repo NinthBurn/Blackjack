@@ -1,0 +1,5 @@
+#ifndef _resources_rc
+#define _resources_rc
+MAINICON ICON "blackjack.ico"
+#endif // _resources_rc
+
